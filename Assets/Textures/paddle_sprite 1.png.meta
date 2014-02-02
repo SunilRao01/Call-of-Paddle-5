@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 5b0c22a973c52bd4f99a60b6687633ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: paddle_sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 176
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 184
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 166
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 175
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 156
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 166
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 157
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 135
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_51
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 135
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_54
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 140
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_55
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 144
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 135
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_60
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 92
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 92
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 76
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 72
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_67
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 72
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_70
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_71
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_72
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_73
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_74
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_75
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_77
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 29
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_83
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: paddle_sprite 1_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
